@@ -1,0 +1,1 @@
+Application to control the garage gate with Android voice commands and Raspberry Pi. It is able to control any relay system - just change the config. It needs WebioPI to be installed on RPi.
